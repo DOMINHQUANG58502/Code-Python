@@ -1,0 +1,6 @@
+5
+MH01|Cảm biến âm thanh|4|17000|68000
+MH02|Cảm biến siêu âm|4|13400|53600
+MH03|cảm biến quang|3|17200|51600
+MH04|cảm biến nhiệt độ|5|22000|110000
+MH05|cảm biến độ ẩm|2|6000|12000
